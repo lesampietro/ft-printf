@@ -1,14 +1,14 @@
 # ft_printf | 42
 >Because `ft_putnbr()` & `ft_putsrt()` are not enough.
-## Project Overview
+## 🔭 Project Overview
 The goal of this project is simple: to program my own `printf()`*, by recreating its behaviour without relying on the original implementation.
 - _*The printf function in C is a standard library function used to print formatted output to the console. It is part of the `<stdio.h>` header file and provides a versatile way to display data of various types by using format specifiers._
 
 ![approved-+-bonus-🌟-110%](https://github.com/user-attachments/assets/ee04d78a-3b66-439c-b267-64b18174d8e8)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
-## Requirements
-### 📓 Mandatory
+## 📝 Requirements
+### Mandatory
 Following the original `printf()`, our version should be able to:
 - [x] Accept a format string and a variable number of arguments.
 - [x] Handle both plain text and placeholders (format specifiers).
@@ -25,12 +25,12 @@ For the bonus part, our program should be able to accept and interpret flags lik
 - [x] **`+`:** The plus flag forces the output to always include a sign (+ or -) for signed numbers. It ensures positive numbers are explicitly marked with a +, while negative numbers still show the -.
 - [x] **` `:** The space flag adds a leading space character for positive numbers, and does nothing for negatives.
 
-## Skills Developed
+## 🛠️ Skills learned
 ### Variadic Functions
 Variadic functions are central to the ft_printf project because they allow the implementation of flexible functions that accept a variable number of arguments. 
 In C, this is achieved using macros provided by the `<stdarg.h>`.
 
-## Usage
+## 🚀 Usage
 An example of how ft_printf might be implemented and used:
 ```c
 #include "ft_printf.h"

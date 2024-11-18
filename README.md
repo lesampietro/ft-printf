@@ -1,2 +1,3 @@
 # ft-printf
-Attempt at the ft_printf project for 42 São Paulo
+The goal of this project is simple: to program my own printf(), unsing variadic functions.
+>The printf function in C is a standard library function used to print formatted output to the console. It is part of the <stdio.h> header file and provides a versatile way to display data of various types by using format specifiers.

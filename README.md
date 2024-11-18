@@ -1,4 +1,4 @@
-# ft-printf
+# ft-printf | 42
 >Because `ft_putnbr()` & `ft_putsrt()` are not enough.
 ## Project Overview
 The goal of this project is simple: to program my own `printf()`*, by recreating its behaviour without relying on the original implementation, unsing variadic functions. 
